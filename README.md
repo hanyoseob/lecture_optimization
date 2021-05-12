@@ -24,4 +24,4 @@ Here, I will explain the basic concept of the optimization and address how to so
 > We learn a concept of `the optimization problem` to solve the inverse problem and implement `the gradient descent method` to solve toy-example.
 
 ### [3. Gradient descent method]() (In progress)
-> We implement `the gradient descent method` to restore a estimated image from a blurred image by Gaussian kernel.
+> We implement `the gradient descent method` to restore a clean image from a blurred image by Gaussian kernel.
