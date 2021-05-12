@@ -7,6 +7,8 @@ You can easily learn above topics through practice, and all the source codes are
 
 I have a plan to make a lecture according to an advanced medical imaging processing related to computed tomography (CT) and magnetic resonance imaging (MRI), and will upload the lectures into new additional repository.
 
+In addition, I am also preparing a simple parallel computing course using CUDA.
+
 Since all the lectures were written by myself, there may be erroneous explanations.
 If you find wrong parts, please let me know.
 
