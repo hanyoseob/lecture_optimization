@@ -2,7 +2,7 @@
 
 Hello, I'm `Yoseob Han` who is postdoctoral researcher in Harvard medical school and Massachusetts general hospital.
 
-I am running [Youtube channel](https://www.youtube.com/channel/UCpujNlw4SUpgTU5rrDXH0Jw) to address `deep learning`, `signal processing`, and `optimization`.
+I am running [YouTube channel](https://www.youtube.com/channel/UCpujNlw4SUpgTU5rrDXH0Jw) to address `deep learning`, `signal processing`, and `optimization`.
 You can easily learn above topics through practice, and all the source codes are uploaded [HERE](https://github.com/hanyoseob).
 
 I am also preparing `a simple parallel computing course using CUDA`.
@@ -12,12 +12,14 @@ In addition, I have a plan to make a lecture according to `an advanced medical i
 Since all the lectures were written by myself, there may be erroneous explanations.
 If you find wrong parts, please let me know.
 
+___If you attract the lectures, please click on the star and subscribe to my [YouTube](https://www.youtube.com/channel/UCpujNlw4SUpgTU5rrDXH0Jw) and follow [GitHub](https://github.com/hanyoseob).___
+
 ---
 # Optimization by example 
 
 Here, I will explain the basic concept of the optimization and address how to solve the real world problems like vision- and medical-imaging tasks using the optimization methods.
 
-## CONTENTS
+## Contents
 
 ### [1. Inverse problem](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter01_Inverse_problem.ipynb)
 > We learn a concept of `the inverse problem` and explain how to solve the inverse problems depending on a system condition.
