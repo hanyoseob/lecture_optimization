@@ -12,7 +12,7 @@ In addition, I have a plan to make a lecture according to `an advanced medical i
 Since all the lectures were written by myself, there may be erroneous explanations.
 If you find wrong parts, please let me know.
 
-___If you attract the lectures, please click on the star and subscribe to my [YouTube](https://www.youtube.com/channel/UCpujNlw4SUpgTU5rrDXH0Jw) and follow [GitHub](https://github.com/hanyoseob).___
+___If you like the lectures, please `click on the star` and `follow` [GitHub](https://github.com/hanyoseob), and `subscribe` to my [YouTube](https://www.youtube.com/channel/UCpujNlw4SUpgTU5rrDXH0Jw).___
 
 ---
 # Optimization by example 
