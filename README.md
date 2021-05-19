@@ -27,5 +27,8 @@ Here, I will explain the basic concept of the optimization and address how to so
 ### [2. Optimiziation problem](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter02_Optimization_problem.ipynb)
 > We learn a concept of `the optimization problem` to solve the inverse problem and implement `the gradient descent method` to solve toy-example.
 
-### [3. Gradient descent method]() (In progress)
-> We implement `the gradient descent method` to restore a clean image from a blurred image by Gaussian kernel.
+### [3. Gradient descent method](https://colab.research.google.com/drive/1tlOUw92mmyWnUW2f72DfeR0EK8RhkKtT)
+> We implement `the gradient descent method` to solve the inversion problem of 2D cases.
+
+### [4. Gradient descent method for practice]() (In progress)
+> We implement `the gradient descent method` to deblur the blurred image by the known 2D Gaussain kernel.
