@@ -33,5 +33,8 @@ Here, I will explain the basic concept of the optimization and address how to so
 ### [4. Gradient descent method for natural image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter04_Gradient_descent_method_for_natural_imaging.ipynb)
 > We implement `the gradient descent method` to deblur the blurred image by the known 2D Gaussain kernel.
 
-### [5. Gradient descent method for medical image processing]() ( To be continued )
+### [5. Gradient descent method for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter05_Gradient_descent_method_for_medical_imaging.ipynb)
 > We implement `the gradient descent method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
+
+### [6. Newton's method]() (IN PROGRESS)
+> We implement `newton's method` which is one of the optimization methods.
