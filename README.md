@@ -27,8 +27,11 @@ Here, I will explain the basic concept of the optimization and address how to so
 ### [2. Optimiziation problem](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter02_Optimization_problem.ipynb)
 > We learn a concept of `the optimization problem` to solve the inverse problem and implement `the gradient descent method` to solve toy-example.
 
-### [3. Gradient descent method](https://colab.research.google.com/drive/1tlOUw92mmyWnUW2f72DfeR0EK8RhkKtT)
+### [3. Gradient descent method](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter03_Gradient_descent_method.ipynb)
 > We implement `the gradient descent method` to solve the inversion problem of 2D cases.
 
-### [4. Gradient descent method for practice]() (In progress)
+### [4. Gradient descent method for natural image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter04_Gradient_descent_method_for_natural_imaging.ipynb)
 > We implement `the gradient descent method` to deblur the blurred image by the known 2D Gaussain kernel.
+
+### [5. Gradient descent method for medical image processing]() ( To be continued )
+> We implement `the gradient descent method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
