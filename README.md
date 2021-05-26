@@ -36,5 +36,11 @@ Here, I will explain the basic concept of the optimization and address how to so
 ### [5. Gradient descent method for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter05_Gradient_descent_method_for_medical_imaging.ipynb)
 > We implement `the gradient descent method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
 
-### [6. Newton's method]() (IN PROGRESS)
+### [6. Newton's method](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter06_Newton's_method.ipynb)
 > We implement `newton's method` which is one of the optimization methods.
+
+### [7. Newton's method for natural image processing]() (IN PROGRESS)
+> We implement `newton's method` to deblur the blurred image by the known 2D Gaussain kernel.
+
+### [8. Newton's method for medical image processing]() (IN PROGRESS)
+> We implement `newton's method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
