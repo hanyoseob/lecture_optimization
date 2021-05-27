@@ -30,22 +30,22 @@ Here, I will explain the basic concept of the optimization and address how to so
 ### [3. Gradient descent method](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter03_Gradient_descent_method.ipynb)
 > We learn `a gradient descent method` and implement `the gradient descent method` to solve the inversion problem of 1D toy-example.
 
-#### [3-1. Gradient descent method for 2D matrix multiplication](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter04_Gradient_descent_method_for_matrix_multiplication.ipynb)
+### [4. Gradient descent method for 2D matrix multiplication](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter04_Gradient_descent_method_for_matrix_multiplication.ipynb)
 > We implement `the gradient descent method` to solve the inversion problem of 2D matrix multiplication.
 
-#### [3-2. Gradient descent method for natural image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter05_Gradient_descent_method_for_natural_imaging.ipynb)
+### [5. Gradient descent method for natural image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter05_Gradient_descent_method_for_natural_imaging.ipynb)
 > We implement `the gradient descent method` to deblur the blurred image by the known 2D Gaussain kernel.
 
-#### [3-3. Gradient descent method for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter06_Gradient_descent_method_for_medical_imaging.ipynb)
+### [6. Gradient descent method for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter06_Gradient_descent_method_for_medical_imaging.ipynb)
 > We implement `the gradient descent method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
 
-### [4. Newton's method](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter07_Newton's_method.ipynb)
+### [7. Newton's method](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter07_Newton's_method.ipynb)
 > We learn `a newton's method` and  implement ` the newton's method` which is one of the optimization methods.
 
-#### [4-1. Newton's method for natural image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter08_Newton's_method_for_natural_imaging.ipynb)
+### [8. Newton's method for natural image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter08_Newton's_method_for_natural_imaging.ipynb)
 > We implement `the newton's method` to deblur the blurred image by the known 2D Gaussain kernel.
 
-#### [4-2. Newton's method for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter09_Newton's_method_for_medical_imaging.ipynb)
+### [9. Newton's method for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter09_Newton's_method_for_medical_imaging.ipynb)
 > We implement `the newton's method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
 
 ### [10. Conjugate gradient method]() ( IN PROGRESS )
