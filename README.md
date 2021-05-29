@@ -57,5 +57,5 @@ We learn `a conjugate graident method` and implement ` the conjugate graident me
 > ### [5-2. Conjugate gradient method for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter12_Conjugate_gradient_method_for_medical_imaging.ipynb)
 > We implement `the conjugate gradient method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
 
-### [6. Summary]() ( IN PROGRESS )
+### [6. Performance evaluation]() ( IN PROGRESS )
 We summarize the previous optimization methods such as `a gradient descent method`, `a newton's method`, and `a conjugate gradient method`.
