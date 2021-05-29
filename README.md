@@ -48,5 +48,11 @@ We learn `a newton's method` and  implement ` the newton's method` which is one 
 > ### [4-2. Newton's method for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter09_Newton's_method_for_medical_imaging.ipynb)
 > We implement `the newton's method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
 
-### [5. Conjugate gradient method]() ( IN PROGRESS )
-We learn `a conjugate graident method`.
+### [5. Conjugate gradient method](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter10_Conjugate_gradient_method.ipynb)
+We learn `a conjugate graident method` and implement ` the conjugate graident method` to solve linear equations.
+
+> ### [5-1. Conjugate gradient method for natural image processing]() ( IN PROGRESS )
+> We implement `the conjugate gradient method` to deblur the blurred image by the known 2D Gaussain kernel.
+
+> ### [5-2. Conjugate gradient method for medical image processing]() ( IN PROGRESS )
+> We implement `the conjugate gradient method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
