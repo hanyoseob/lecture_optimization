@@ -51,8 +51,11 @@ We learn `a newton's method` and  implement ` the newton's method` which is one 
 ### [5. Conjugate gradient method](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter10_Conjugate_gradient_method.ipynb)
 We learn `a conjugate graident method` and implement ` the conjugate graident method` to solve linear equations.
 
-> ### [5-1. Conjugate gradient method for natural image processing]() ( IN PROGRESS )
+> ### [5-1. Conjugate gradient method for natural image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter11_Conjugate_gradient_method_for_natural_imaging.ipynb)
 > We implement `the conjugate gradient method` to deblur the blurred image by the known 2D Gaussain kernel.
 
-> ### [5-2. Conjugate gradient method for medical image processing]() ( IN PROGRESS )
+> ### [5-2. Conjugate gradient method for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter12_Conjugate_gradient_method_for_medical_imaging.ipynb)
 > We implement `the conjugate gradient method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
+
+### [6. Summary]() ( IN PROGRESS )
+We summarize the previous optimization methods such as a gradient descent method, a newton's method, and a conjugate gradient method.
