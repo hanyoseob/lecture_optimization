@@ -32,10 +32,10 @@ We learn `a gradient descent method` and implement `the gradient descent method`
 
 > ### [3-1. Gradient descent method for 2D matrix multiplication](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter04_Gradient_descent_method_for_matrix_multiplication.ipynb)
 > We implement `the gradient descent method` to solve the inversion problem of 2D matrix multiplication.
-
+>
 > ### [3-2. Gradient descent method for natural image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter05_Gradient_descent_method_for_natural_image_processing.ipynb)
 > We implement `the gradient descent method` to deblur the blurred image by the known 2D Gaussain kernel.
-
+>
 > ### [3-3. Gradient descent method for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter06_Gradient_descent_method_for_medical_image_processing.ipynb)
 > We implement `the gradient descent method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
 
@@ -44,7 +44,7 @@ We learn `a newton's method` and  implement ` the newton's method` which is one 
 
 > ### [4-1. Newton's method for natural image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter08_Newton's_method_for_natural_image_processing.ipynb)
 > We implement `the newton's method` to deblur the blurred image by the known 2D Gaussain kernel.
-
+>
 > ### [4-2. Newton's method for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter09_Newton's_method_for_medical_image_processing.ipynb)
 > We implement `the newton's method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
 
@@ -53,9 +53,15 @@ We learn `a conjugate graident method` and implement ` the conjugate graident me
 
 > ### [5-1. Conjugate gradient method for natural image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter11_Conjugate_gradient_method_for_natural_image_processing.ipynb)
 > We implement `the conjugate gradient method` to deblur the blurred image by the known 2D Gaussain kernel.
-
+>
 > ### [5-2. Conjugate gradient method for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter12_Conjugate_gradient_method_for_medical_image_processing.ipynb)
 > We implement `the conjugate gradient method` to reconstruct computed tomography (CT) image using [Radon transform](https://en.wikipedia.org/wiki/Radon_transform).
 
-### [6. Performance evaluation]() ( IN PROGRESS )
-We summarize the previous optimization methods such as `a gradient descent method`, `a newton's method`, and `a conjugate gradient method`.
+### 6. Performance evaluation
+We summarize the optimization methods such as `a gradient descent method`, `a newton's method`, and `a conjugate gradient method`.
+
+> ### [6-1. Performance evaluation for natural image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter13_Performance_evaluation_for_natural_image_processing.ipynb)
+> We summarize `the deblurring performace` from optimization methods.
+>
+> ### [6-2. Performance evaluation for medical image processing](https://github.com/hanyoseob/lecture_optimization/blob/main/chapter14_Performance_evaluation_for_medical_image_processing.ipynb)
+> We summarize `the CT reconstruction performace` from optimization methods.
